@@ -1,6 +1,5 @@
 
 import java.util.*;
-{
 class overload
 {
     float area(float l,float  b)
@@ -37,4 +36,4 @@ class Method_Overloading
 		System.out.println("The area of square is:"+obj.area(s));
 	}
 }
-}
+
